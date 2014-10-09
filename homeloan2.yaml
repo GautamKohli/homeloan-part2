@@ -6,7 +6,7 @@ technologies:
 	-RecipientList Endpoint with dynamic Restful URL 
 	-Http4 Endpoint	
 	-ActiveMQ Endpoint
-summary:  Visit http://wei-meilin.blogspot.tw/2014/07/red-hat-jboss-fuse-getting-started-home_14.html and http://wei-meilin.blogspot.tw/2014/07/red-hat-jboss-fuse-getting-started-home_16.html
+summary: summary:  JBoss Fuse homeloan getting started demo
 level: Beginner
 product: fuse
 author: Christina Lin
