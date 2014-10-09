@@ -22,11 +22,6 @@ To run the project you can execute the following Maven goal
 
     mvn camel:run
 
-To deploy the project in OSGi. For example using Apache ServiceMix
-or Apache Karaf. You can run the following command from its shell:
-
-    osgi:install -s mvn:org.blogdemo/homeloan/1.0.0-SNAPSHOT
-
-For more help see the Apache Camel documentation
-
-    http://camel.apache.org/
+More detail, please visit 
+http://wei-meilin.blogspot.tw/2014/07/red-hat-jboss-fuse-getting-started-home_14.html
+http://wei-meilin.blogspot.tw/2014/07/red-hat-jboss-fuse-getting-started-home_16.html
