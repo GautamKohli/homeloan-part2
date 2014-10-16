@@ -1,11 +1,11 @@
 title: Home Loan Quick Start 2 & 3
-github_repo_url: https://github.com/weimeilin79/homeloan-part2 
+github_repo_url: https://github.com/weimeilin79/homeloan-part2
 technologies: 
-  JAXB transformation
-  SQL Endpoint
-  RecipientList Endpoint with dynamic Restful URL
-  Http4 Endpoint
-  ActiveMQ Endpoint
+  - JAXB transformation
+  - SQL Endpoint
+  - RecipientList Endpoint with dynamic Restful URL
+  - Http4 Endpoint
+  - ActiveMQ Endpoint
 summary: JBoss Fuse homeloan getting started demo
 level: Beginner
 product: fuse
